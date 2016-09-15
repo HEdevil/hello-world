@@ -1,2 +1,7 @@
 # hello-world
-第一次尝试
+#include <iostream>
+using namespace std;
+int main()
+{
+  cout<<"Happy  Mid-Autumn  Day!"<<endl;
+}
