@@ -1,7 +1,1 @@
-# hello-world
-#include <iostream>
-using namespace std;
-int main()
-{
-  cout<<"Happy  Mid-Autumn  Day!"<<endl;
-}
+开这个project的目的是为了锻炼自己的代码能力，大学一年过去了，写代码能力还是很糟糕
